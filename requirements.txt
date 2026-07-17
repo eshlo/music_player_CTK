@@ -1,0 +1,8 @@
+shutil
+time
+customtkinter
+pygame
+music_tag
+CTkListbox
+PIL
+tkinter
